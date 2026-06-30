@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @OreChou
-- 👀 I’m interested in Crypto
+**喜好**：Reading 📖 Coding 💻 Playing 🎮
 
-[![Readme Card](https://github-readme-stats.vercel.app/api?username=OreChou&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OreChou&layout=compact&exclude_repo=sumy7.github.io&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+**目前专注于** AGI 以及小而美的产品创造
